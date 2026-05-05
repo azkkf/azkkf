@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Me chamo Rafael Schabarum, e sou do Brasil.<br><br>- 📚 No momento, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.<br>- ⚡ Em meu tempo livre, gosto de ler, ouvir música, jogar e assistir documentários.</p>
+<p align="left">Me chamo Rafael Schabarum, e sou um Engenheiro de Software.<br><br>- 📚 No momento, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.<br>- ⚡ Em meu tempo livre, gosto de ler, ouvir música, jogar e assistir documentários.</p>
 
 ###
 
